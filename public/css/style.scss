@@ -1,0 +1,31 @@
+/**
+* global
+*/
+@import "_config.scss";
+@import "global/_normalize.scss";
+@import "global/_reset.scss";
+@import "global/_base-html.scss";
+
+/**
+* fonts
+*/
+@import "fonts/_fonts.scss";
+
+/**
+* page
+*/
+
+/**
+* modules
+*/
+@import 'modules/_header.scss';
+@import "modules/_logo.scss";
+@import "modules/_nav-main.scss";
+@import "modules/_search.scss";
+@import "modules/_image.scss";
+@import "modules/_footer.scss";
+
+/**
+* utils
+*/
+@import "utils/_visually-hidden.scss";
